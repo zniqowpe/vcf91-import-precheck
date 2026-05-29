@@ -73,7 +73,7 @@
 | 16 | SSH 登入啟用狀態 | ✅ SSH 登入已啟用 |
 | 17 | SDDC Manager 延伸套件（Extension）衝突 | ✅ 無 SDDC Manager 延伸套件衝突 |
 | 18 | 舊版 VxRail 延伸套件 | ✅ 無不支援的 Legacy VxRail 延伸套件 |
-| 19 | VxRail Next 延伸套件 | ✅ 符合規範（版本未達 9.2.0.0） |
+| 19 | VxRail Next 延伸套件 | ✅ 符合規範 |
 | 20 | NSX Manager 與 vCenter 重複連線 | ✅ vCenter 未與 NSX Manager 重複連線 |
 | 21 | vCenter HA 停用確認 | ✅ vCenter HA 已停用（部署期間須停用） |
 | 22 | vCenter ELM 模式確認 | ✅ 非 ELM 模式（只有 1 個 vCenter 節點） |
